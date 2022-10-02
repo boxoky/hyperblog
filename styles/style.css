@@ -17,3 +17,10 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    background: #AAF;
+    color: white;
+    width: 100%;
+    font-weight: bold;
+}
